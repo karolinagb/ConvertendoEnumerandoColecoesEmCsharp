@@ -1,0 +1,16 @@
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Foreach\bin\Debug\net5.0\Foreach.exe
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Foreach\bin\Debug\net5.0\Foreach.deps.json
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Foreach\bin\Debug\net5.0\Foreach.runtimeconfig.json
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Foreach\bin\Debug\net5.0\Foreach.runtimeconfig.dev.json
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Foreach\bin\Debug\net5.0\Foreach.dll
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Foreach\bin\Debug\net5.0\ref\Foreach.dll
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Foreach\bin\Debug\net5.0\Foreach.pdb
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Foreach\obj\Debug\net5.0\Foreach.csproj.AssemblyReference.cache
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Foreach\obj\Debug\net5.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Foreach\obj\Debug\net5.0\Foreach.AssemblyInfoInputs.cache
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Foreach\obj\Debug\net5.0\Foreach.AssemblyInfo.cs
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Foreach\obj\Debug\net5.0\Foreach.csproj.CoreCompileInputs.cache
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Foreach\obj\Debug\net5.0\Foreach.dll
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Foreach\obj\Debug\net5.0\ref\Foreach.dll
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Foreach\obj\Debug\net5.0\Foreach.pdb
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Foreach\obj\Debug\net5.0\Foreach.genruntimeconfig.cache
