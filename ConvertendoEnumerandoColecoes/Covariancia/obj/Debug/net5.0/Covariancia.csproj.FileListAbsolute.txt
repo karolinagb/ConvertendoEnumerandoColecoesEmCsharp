@@ -1,0 +1,16 @@
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Covariancia\bin\Debug\net5.0\Covariancia.exe
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Covariancia\bin\Debug\net5.0\Covariancia.deps.json
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Covariancia\bin\Debug\net5.0\Covariancia.runtimeconfig.json
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Covariancia\bin\Debug\net5.0\Covariancia.runtimeconfig.dev.json
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Covariancia\bin\Debug\net5.0\Covariancia.dll
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Covariancia\bin\Debug\net5.0\ref\Covariancia.dll
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Covariancia\bin\Debug\net5.0\Covariancia.pdb
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Covariancia\obj\Debug\net5.0\Covariancia.csproj.AssemblyReference.cache
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Covariancia\obj\Debug\net5.0\Covariancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Covariancia\obj\Debug\net5.0\Covariancia.AssemblyInfoInputs.cache
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Covariancia\obj\Debug\net5.0\Covariancia.AssemblyInfo.cs
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Covariancia\obj\Debug\net5.0\Covariancia.csproj.CoreCompileInputs.cache
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Covariancia\obj\Debug\net5.0\Covariancia.dll
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Covariancia\obj\Debug\net5.0\ref\Covariancia.dll
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Covariancia\obj\Debug\net5.0\Covariancia.pdb
+C:\projetos\ConvertendoEnumerandoColecoesEmCsharp\ConvertendoEnumerandoColecoes\Covariancia\obj\Debug\net5.0\Covariancia.genruntimeconfig.cache
